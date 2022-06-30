@@ -1,0 +1,23 @@
+*{
+    padding:0;
+    margin: 0;
+}
+.wrapper{
+    padding: 50px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.country{
+    width: 200px;
+    height:300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 10px;
+    box-shadow: 3px 3px 2px rgb(242, 239, 239);
+}
+.flag{
+    width: 200px;
+    height: 150px;
+}
